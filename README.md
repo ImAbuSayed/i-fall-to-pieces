@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/i-fall-to-pieces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for I Fall to Pieces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-fall-to-pieces/) |
+| **Get License** | [License this song: I Fall to Pieces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/i-fall-to-pieces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0c47635232657eedd2d0226937e48c2d873401cd28964f186ab0312f7f327c2f` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
